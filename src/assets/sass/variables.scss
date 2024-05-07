@@ -1,0 +1,21 @@
+$background: #06e6c8;
+$widthContainer: 100px; 
+$heightContainer: 100px; 
+$fontSize: 30px;
+$font-style: italic;
+$testimonioText: bold;
+:export {
+    background: $background;
+    widthContainer: $widthContainer; 
+    heightContainer: $heightContainer;
+    font-size: $fontSize;
+    font-style: $font-style;
+    font-style:$testimonioText;
+}
+//img
+$widthImage: 30%;
+$heightImage: 40%;
+:export {
+    height: $heightImage;
+    width: $widthImage;
+}
