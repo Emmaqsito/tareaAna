@@ -1,5 +1,5 @@
 import React from "react";
-import estilo from "./TestimonioDesign.module.scss";
+import estilo from "./ ";
 
 function Testimonio(props) {
     return(
